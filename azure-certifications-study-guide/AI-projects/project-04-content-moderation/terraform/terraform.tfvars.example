@@ -1,0 +1,4 @@
+resource_group_name = "rg-content-moderation"
+location            = "eastus"
+project_name        = "moderation"
+environment         = "dev"
