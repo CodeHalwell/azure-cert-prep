@@ -117,7 +117,8 @@ class AnomalyDetectorService:
             "lower_margin": result.lower_margin,
             "is_negative_anomaly": result.is_negative_anomaly,
             "is_positive_anomaly": result.is_positive_anomaly,
-            "severity": result.severity if hasattr(result, "severity") else None,
+            # Severity is only available in certain API versions
+            "severity": getattr(result, "severity", None),
         }
 
 
