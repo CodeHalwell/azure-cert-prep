@@ -1,0 +1,7 @@
+resource_group_name = "rg-customer-bot"
+location            = "eastus"
+project_name        = "csbot"
+environment         = "dev"
+app_service_sku     = "B1"
+openai_location     = "eastus"
+bot_app_id          = "your-bot-app-id-from-azure-ad"

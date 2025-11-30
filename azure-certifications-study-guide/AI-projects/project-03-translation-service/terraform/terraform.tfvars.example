@@ -1,0 +1,4 @@
+resource_group_name = "rg-translation-service"
+location            = "eastus"
+project_name        = "translate"
+environment         = "dev"

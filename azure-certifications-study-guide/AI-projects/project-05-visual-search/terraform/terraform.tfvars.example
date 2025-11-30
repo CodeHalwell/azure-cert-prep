@@ -1,0 +1,4 @@
+resource_group_name = "rg-visual-search"
+location            = "eastus"
+project_name        = "vissearch"
+environment         = "dev"
