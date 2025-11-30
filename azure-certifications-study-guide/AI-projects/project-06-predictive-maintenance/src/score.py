@@ -4,7 +4,6 @@ Scoring script for model inference.
 
 import json
 import joblib
-import numpy as np
 import pandas as pd
 
 

@@ -2,7 +2,6 @@
 Main application entry point for the Customer Service Bot.
 """
 
-import asyncio
 from aiohttp import web
 from botbuilder.core import (
     BotFrameworkAdapter,

@@ -3,7 +3,6 @@ Tool definitions and execution for the assistant.
 """
 
 from datetime import datetime
-import requests
 
 TOOLS = [
     {

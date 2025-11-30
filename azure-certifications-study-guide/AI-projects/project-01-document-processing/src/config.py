@@ -3,7 +3,6 @@ Configuration management for Document Processing project.
 Loads environment variables and provides type-safe settings.
 """
 
-import os
 from pydantic_settings import BaseSettings
 from pydantic import Field
 

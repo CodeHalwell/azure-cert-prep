@@ -7,8 +7,6 @@ import uuid
 from datetime import datetime, timedelta
 from azure.storage.blob import (
     BlobServiceClient,
-    BlobClient,
-    ContainerClient,
     generate_blob_sas,
     BlobSasPermissions,
 )
