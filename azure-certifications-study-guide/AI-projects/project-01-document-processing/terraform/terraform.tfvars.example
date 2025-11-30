@@ -1,0 +1,13 @@
+# Example terraform.tfvars file
+# Copy this file to terraform.tfvars and fill in your values
+
+resource_group_name = "rg-document-processing"
+location            = "eastus"
+project_name        = "docproc"
+environment         = "dev"
+
+# Optional: Customize SKUs and locations
+document_intelligence_sku = "S0"
+openai_sku                = "S0"
+openai_location           = "eastus"
+openai_capacity           = 10
