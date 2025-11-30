@@ -1,0 +1,4 @@
+resource_group_name = "rg-knowledge-mining"
+location            = "eastus"
+project_name        = "knowmine"
+openai_location     = "eastus"

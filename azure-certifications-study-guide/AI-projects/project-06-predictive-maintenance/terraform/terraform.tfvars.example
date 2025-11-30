@@ -1,0 +1,4 @@
+resource_group_name = "rg-predictive-maintenance"
+location            = "eastus"
+project_name        = "predmaint"
+environment         = "dev"

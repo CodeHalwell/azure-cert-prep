@@ -161,6 +161,18 @@ azure-certifications-study-guide/
 │   ├── study-guide.md
 │   ├── learning-modules.md
 │   └── mcp-resources.md
+├── AI-projects/
+│   ├── README.md
+│   ├── project-01-document-processing/
+│   ├── project-02-customer-service-bot/
+│   ├── project-03-translation-service/
+│   ├── project-04-content-moderation/
+│   ├── project-05-visual-search/
+│   ├── project-06-predictive-maintenance/
+│   ├── project-07-sentiment-analysis/
+│   ├── project-08-knowledge-mining/
+│   ├── project-09-multimodal-assistant/
+│   └── project-10-anomaly-detection/
 └── shared-resources/
     ├── azure-fundamentals.md
     ├── study-schedule-templates.md
@@ -173,7 +185,27 @@ azure-certifications-study-guide/
 2. **Start with Fundamentals**: If new to Azure or AI, begin with AI-900 or AZ-900
 3. **Follow Study Guides**: Each certification folder contains structured study materials
 4. **Practice Hands-On**: Complete the labs and exercises in each section
-5. **Take Practice Tests**: Use the practice assessment links before scheduling your exam
+5. **Build Real Projects**: Explore the [AI Projects](./AI-projects/) for end-to-end implementations
+6. **Take Practice Tests**: Use the practice assessment links before scheduling your exam
+
+## 🛠️ AI Projects
+
+Build real-world Azure AI solutions with our **10 comprehensive projects**. Each project includes step-by-step instructions, Python code, infrastructure diagrams, and Terraform configurations.
+
+| Project | Description | Difficulty |
+|---------|-------------|------------|
+| [Document Processing](./AI-projects/project-01-document-processing/) | Extract and analyze documents with AI | 🟡 Medium |
+| [Customer Service Bot](./AI-projects/project-02-customer-service-bot/) | Build an intelligent chatbot | 🟡 Medium |
+| [Translation Service](./AI-projects/project-03-translation-service/) | Real-time language translation | 🟢 Easy |
+| [Content Moderation](./AI-projects/project-04-content-moderation/) | Detect and filter harmful content | 🟡 Medium |
+| [Visual Search](./AI-projects/project-05-visual-search/) | Search images by similarity | 🟡 Medium |
+| [Predictive Maintenance](./AI-projects/project-06-predictive-maintenance/) | Predict equipment failures | 🔴 Advanced |
+| [Sentiment Analysis](./AI-projects/project-07-sentiment-analysis/) | Analyze customer feedback | 🟢 Easy |
+| [Knowledge Mining](./AI-projects/project-08-knowledge-mining/) | Enterprise document QA | 🔴 Advanced |
+| [Multi-modal Assistant](./AI-projects/project-09-multimodal-assistant/) | Text, image, and voice AI | 🔴 Advanced |
+| [Anomaly Detection](./AI-projects/project-10-anomaly-detection/) | Real-time anomaly detection | 🟡 Medium |
+
+➡️ [View All Projects](./AI-projects/)
 
 ## 💰 Exam Costs (As of November 2025)
 
